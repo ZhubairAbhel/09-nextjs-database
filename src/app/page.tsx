@@ -5,7 +5,7 @@ import { lusitana } from '@/app/components/atoms/fonts';
 
 export default async function Page() {
   return (
-    <main>
+    <main className='w-full'>
       <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
         Dashboard
       </h1>
