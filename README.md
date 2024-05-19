@@ -15,3 +15,5 @@
 ![Screenshot](assets-report/6.png)
 saya ingin melihat amount dengan status pembayaran yang pending.
 5. ![Screenshot](assets-report/7.png)
+![Screenshot](assets-report/7.2.png)
+6. 
