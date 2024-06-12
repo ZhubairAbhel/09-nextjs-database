@@ -5,7 +5,7 @@ import { z } from 'zod';
 import {sql} from '@vercel/postgres';
 import type {User} from '@/model/definitions';
 
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 async function getuser(email: string): Promise<User | undefined> {
     try {
